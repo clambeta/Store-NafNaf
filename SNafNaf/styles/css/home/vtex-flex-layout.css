@@ -1,3 +1,12 @@
+.slaiderLayoutContainer--home__slider{
+    max-width: 1200; 
+    margin: 0 auto 50px;
+}
+
 .flex-layout.row#home__section--one {
     background-color: brown;
+}
+
+.imageElement--home__slider{
+    max-height: initial !important;
 }
